@@ -1,6 +1,6 @@
 # social-proof-section-master
 
-![image](https://github.com/molszewski34/FrontEnd-projects/blob/main/cover-3-column-preview-card-component-main.png)
+![image](https://github.com/molszewski34/social-proof-section-master/blob/main/social-proof-section-master.png)
 
 social-proof-section-master is a simple site build with only html and css. Site offers mobile and desktop viewport to navigate it in optimal way. This project is based on FrontEnd Mentor challenge with link [here](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA)
 
