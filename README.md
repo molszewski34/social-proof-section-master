@@ -38,7 +38,7 @@ Heading elements and paragraphs response to all sizes.
 
 ## What I learned
 
-In this challange i started to use more HTML semantic tags <article>, <section>, <main>.  
+In this challange i started to use more HTML semantic tags: article, section, main.  
 
 
 
